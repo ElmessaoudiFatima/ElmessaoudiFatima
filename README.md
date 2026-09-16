@@ -1,16 +1,17 @@
-## Hi there 👋
+# Salut, je suis Fatima 👋
 
-<!--
-**ElmessaoudiFatima/ElmessaoudiFatima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiante en 5ème année — Génie Informatique à l'ENSA Tétouan (ENSATé)
 
-Here are some ideas to get you started:
+💻 Développeuse full-stack — Java, Spring Boot, Angular, PostgreSQL, Laravel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 Actuellement à la recherche d'un stage PFE
+
+🛠️ Stack : Spring Boot · Angular · Laravel · .NET · PostgreSQL · Oracle · Docker · Python · FastAPI
+
+📫 [LinkedIn](https://www.linkedin.com/in/fatima-elmessaoudi-7bb455346/) 
+
+---
+### Projets en avant
+- **ProxiBuy** — Module Achats & Approvisionnement inspiré de SAP MM (Spring Boot, Angular, PostgreSQL)
+- **SGITU** — Microservices de billetterie urbaine dématérialisée
+- **PhishGuard** — Détecteur de phishing par Machine Learning (FastAPI, Random Forest)
